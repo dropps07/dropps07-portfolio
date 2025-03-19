@@ -1,0 +1,55 @@
+# Node.js dependencies
+node_modules/
+.npm/
+.yarn/
+.pnpm-debug.log
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Next.js build output
+.next/
+out/
+.vercel/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.log
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.bak
+
+# Go build artifacts
+*.exe
+*.out
+*.o
+*.a
+*.so
+*.dll
+*.test
+coverage.out
+
+# Go module cache
+/go/pkg/
+go.sum
+go.mod
+
+# Binaries and compiled code
+bin/
+build/
+vendor/
