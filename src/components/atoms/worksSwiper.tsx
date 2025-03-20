@@ -43,14 +43,15 @@ const WorksSwiper = () => {
                 modules={[Autoplay, Pagination, EffectCreative]}
                 className={`mySwiper5 size-full`}
                 >
-                    {WorksSwiperData.map((item: WorksSwiperCardProps, index: number) => (
-                        <SwiperSlide 
-                        key = { index}
-                        style={{cursor: `url(${cursor}), auto`}}
-                        >
-                            <WorksSwiperCard item={item}/>   
-                        </SwiperSlide>
-                    ))}
+                    {WorksSwiperData.map((item, index) => (
+  <SwiperSlide 
+    key={index}
+    style={{ cursor: `url(${cursor}), auto` }}
+  >
+    <WorksSwiperCard item={item as WorksSwiperCardProps}/>   
+  </SwiperSlide>
+))}
+
                 </Swiper>
             </div>
         </div>

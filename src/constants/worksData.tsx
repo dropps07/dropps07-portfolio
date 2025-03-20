@@ -1,12 +1,16 @@
 export const WorksData = [
     {
-        "heading" : "Project",
-        "description" : "lorem epsium",
-        "link": "https:github.com/dropps07"
+        "heading" : "tixets",
+        "description" : "A Decentralized Event Ticketing platform providing a secure, transparent and a reliable solution.",
+        "src":"/tixets.png",
+        "link": "https:github.com/dropps07/tixets",
+        "deploy": "https://tixets.vercel.app/"
     },
     {
-        "heading" : "Project",
-        "description": "lorem epsium",
-        "link" : "https:https://github.com/dropps07"
+        "heading" : "chatApp",
+        "description": "A chat app using websockets for real time chatting with nextjs as a frontend and Go in the backend.",
+        "src":"/chatApp.png",
+        "link" : "https://github.com/dropps07/chatapp-nextjs-go",
+        "deploy": "server down 404"
     }
-]
+];

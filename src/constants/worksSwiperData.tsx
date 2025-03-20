@@ -1,22 +1,22 @@
 export const WorksSwiperData = [
     {
-        "heading" : "Mini Project here",
-        "description" : "Lorem Epsium",
-        "link":"https://github.com/dropps07"
+        "heading" : " RESTful Apis",
+        "description" : "build Restful apis in Go as a learning lesson to get started in Golang.",
+        "link":"https://github.com/dropps07/RESTful-Apis-using-Go"
     },
     {
-        "heading" : "Mini Project here",
-        "description" : "Lorem Epsium",
-        "link":"https://github.com/dropps07"
+        "heading" : "Buy Me Coffee",
+        "description" : "A Decentralized Buy me Coffee project based on EduChain Blockchain Technology",
+        "link":"https://github.com/dropps07/buy-me-coffee-beanz"
     },
     {
-        "heading" : "Mini Project here",
-        "description" : "Lorem Epsium",
-        "link":"https://github.com/dropps07"
+        "heading" : " RESTful Apis",
+        "description" : "build Restful apis in Go as a learning lesson to get started in Golang.",
+        "link":"https://github.com/dropps07/RESTful-Apis-using-Go"
     },
     {
-        "heading" : "Mini Project here",
-        "description" : "Lorem Epsium",
-        "link":"https://github.com/dropps07"
+        "heading" : "Buy Me Coffee",
+        "description" : "A Decentralized Buy me Coffee project based on EduChain Blockchain Technology",
+        "link":"https://github.com/dropps07/buy-me-coffee-beanz"
     },
 ]
