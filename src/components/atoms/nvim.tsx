@@ -114,7 +114,7 @@ const Nvim = () => {
                             }}
                             className="text-yellow-300"
                         ><span>Hello, I am Ajey Awasthi</span><span>&nbsp;</span></TypeIt><br />
-                        <span className="break-words">I am a software developer based in UttarPradesh with years of programming experience and with a diverse portfolio across technologies like web3</span><br />
+                        <span className="break-words">I'm a software developer based in UttarPradesh with years of programming experience and with a diverse portfolio including multiple technologies such as Blockchain</span><br />
                         <span className="break-words">My Track record? 6+ Hackathon Events, 2 wins , Im all about exploring new tech and creating impact.</span><br />
                         <Link href={ResumeUrl} rel="noopener noreferrer" target="_blank">
                         <TypeIt
