@@ -32,7 +32,7 @@ const WorksTile = ({ item }: { item: WorksTileProps }) => {
       </Link>
       <Link href={item.deploy} rel="noopener noreferrer" target="_blank">
       <button className={`border-white border-[3px] font-bold text-[20px] w-fit px-[40px] rounded-[14px] 
-  ${item.deploy === "server down 404" ? "border-white text-white hover:border-red-500 hover:text-red-500 duration-300 hover:scale-60 flex justify-center items-center" : "border-white text-white hover:green-red-600 hover:text-green-600 transition-all duration-300 hover:scale-60 flex justify-center items-center"}`}>
+  ${item.deploy === "server down 404" ? "border-white text-white hover:border-red-500 hover:text-red-500 duration-300 hover:scale-60 flex justify-center items-center" : "border-white text-white hover:border-green-600 hover:text-green-600 transition-all duration-300 hover:scale-60 flex justify-center items-center"}`}>
   Deployment Status: {item.deploy === "server down 404" ? "Err503" : "Active!"}
 </button>
 
