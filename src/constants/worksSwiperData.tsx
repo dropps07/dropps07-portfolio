@@ -1,7 +1,7 @@
 export const WorksSwiperData = [
     {
         "heading" : " RESTful Apis",
-        "description" : "build Restful apis in Go as a learning lesson to get started in Golang.",
+        "description" : "built Restful apis in Go as a learning lesson to get started in Golang.",
         "link":"https://github.com/dropps07/RESTful-Apis-using-Go"
     },
     {
@@ -11,7 +11,7 @@ export const WorksSwiperData = [
     },
     {
         "heading" : " RESTful Apis",
-        "description" : "build Restful apis in Go as a learning lesson to get started in Golang.",
+        "description" : "built Restful apis in Go as a learning lesson to get started in Golang.",
         "link":"https://github.com/dropps07/RESTful-Apis-using-Go"
     },
     {
